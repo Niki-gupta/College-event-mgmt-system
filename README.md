@@ -1,4 +1,4 @@
-# College-event-mgmt-system
+# College-event-mgmt-system | Php Project
 Fullstack project using PHP, MySQL, Javascript
 ---
 Admin login 
